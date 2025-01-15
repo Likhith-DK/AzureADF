@@ -1,0 +1,9 @@
+{
+	"name": "likhithADF13",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "90f2670f-ea5a-4a0a-9f23-804791072928",
+		"tenantId": "f14a973e-1d59-40e3-af0c-1c9ebc8221ad"
+	}
+}
